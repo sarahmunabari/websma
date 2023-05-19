@@ -1,0 +1,61 @@
+<style type="text/css">
+* {
+font-family: "Trebuchet MS";
+}
+
+h1 {
+text-transform: uppercase;
+color: #f4a024;
+}
+
+table {
+border: solid 1px #DDEEEE;
+border-collapse: collapse;
+border-spacing: 0;
+width: 70%;
+margin: 10px auto 10px auto;
+}
+
+table th {
+background-color: #294a70;
+border: solid 1px #DDEEEE;
+color: #f5fbfb;
+padding: 10px;
+text-align: left;
+text-decoration: none;
+}
+
+table td {
+border: solid 1px #DDEEEE;
+color: #333;
+padding: 10px;
+}
+
+a, input[type=submit], input[type=reset]{
+background-color: #f4a024;
+color: #fff;
+padding: 10px;
+text-decoration: none;
+font-size: 12px;
+}
+
+label {
+margin-top: 10px;
+float: left;
+text-align: left;
+width: 100%;
+}
+
+input {
+padding: 6px;
+width: 100%;
+box-sizing: border-box;
+background: #f8f8f8;
+border: 2px solid #ccc;
+outline-color: #f4a024;
+}
+
+a:hover, button:hover, input[type=submit]:hover, input[type=reset]:hover{
+opacity:0.9;
+}
+</style>
